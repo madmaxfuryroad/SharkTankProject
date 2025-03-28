@@ -2,3 +2,6 @@
 Whether for education or accessibility, SIGNify helps individuals communicate with the rest of the world, a necessary move towards breaking barriers.
 
 Currently, SIGNify is developing Python Program that is able to take camera input, analyze the user's hand, and output the corresponding letter in English. It can do so for all 26 letters and is done so with computer vision and machine learning models from the web. It is currently able to go one way; ASL hand gestures to English letters. However, in the future I aim to achieve more services such as going from English letters to ASL hand gestures, speech to ASL hand gestures, and more all within the control of one app. All of these features will be incorporated into one seamless app, which can allow switching between these features.
+
+1. INSTALL PYTHON 3.10 
+2. THEN RUN THIS COMMAND `pip install requirements.txt`
